@@ -1,0 +1,19 @@
+.movie-card {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .movie-card img {
+    width: 150px;
+    height: 225px;
+    margin-right: 10px;
+  }
+  
+  .movie-info {
+    flex-grow: 1;
+  }
+  
